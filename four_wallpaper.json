@@ -1,0 +1,24 @@
+[
+  {
+    "category": "Popular",
+    "urls": [
+      "https://image.lexica.art/full_webp/125442f9-1131-44d9-9cc7-928aaa3519ec",
+      "https://image.lexica.art/full_webp/542a19ad-3038-4a23-9352-37f4252a4bdc",
+      "https://image.lexica.art/full_webp/a7ecacd3-9500-4efc-ae5b-804d3c84dc57",
+      "https://image.lexica.art/full_webp/1320688f-949b-4766-be1a-6af9aab5f911"
+    ]
+  },
+  {
+    "category": "NFT",
+    "urls": [
+      "https://image.lexica.art/full_webp/ff34b179-9d07-4e98-a19d-dd1a36fb1151",
+      "https://image.lexica.art/full_webp/60b3c195-f9a1-4ffe-9709-210bc8fff057"
+    ]
+  },
+  {
+    "category": "Cats",
+    "urls": [
+      "https://image.lexica.art/full_webp/526b583c-a960-4a25-b028-7338a957a5cf"
+    ]
+  }
+]
