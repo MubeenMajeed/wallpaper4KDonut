@@ -1,34 +1,78 @@
 [
-  {
-    "category": "Popular",
-    "urls": [
-      "https://image.lexica.art/full_webp/125442f9-1131-44d9-9cc7-928aaa3519ec",
-      "https://image.lexica.art/full_webp/542a19ad-3038-4a23-9352-37f4252a4bdc",
-      "https://image.lexica.art/full_webp/a7ecacd3-9500-4efc-ae5b-804d3c84dc57",
-      "https://image.lexica.art/full_webp/1320688f-949b-4766-be1a-6af9aab5f911"
-    ]
-  },
-  {
-    "category": "NFT",
-    "urls": [
-      "https://image.lexica.art/full_webp/3038cda3-1d4a-466d-8e78-07cc103881a2",
-      "https://image.lexica.art/full_webp/b8cdfbb7-3399-4a5e-8f2f-70a4e6faa0c7",
-      "https://image.lexica.art/full_webp/7a962d44-3d7e-4952-a3ec-e78920137d6c",
-      "https://image.lexica.art/full_webp/a18caf21-241f-4e11-b3a7-9ade5093ba5f",
-      "https://image.lexica.art/full_webp/e9b759ab-1b90-4df2-acac-85a66653df84",
-      "https://image.lexica.art/full_webp/a5af12b7-72d5-4637-ba0e-e1a8c20aeb7c",
-      "https://image.lexica.art/full_webp/c7e8c3fe-6b40-4aeb-b5f2-0e086684dd75",
-      "https://image.lexica.art/full_webp/e82d0bb6-256a-4225-999c-9b6201f8401b",
-      "https://image.lexica.art/full_webp/78817926-9500-4015-a876-c692dd398a7f",
-      "https://image.lexica.art/full_webp/f492caa8-1529-40b4-85ba-437600841fec",
-      "https://image.lexica.art/full_webp/64e55d12-1e24-4ace-8df5-66c8cf622e3a",
-      "https://image.lexica.art/full_webp/aeb6eb86-8920-463f-85b0-cc210bb31afb"
-    ]
-  },
-  {
-    "category": "Cats",
-    "urls": [
-      "https://image.lexica.art/full_webp/526b583c-a960-4a25-b028-7338a957a5cf"
-    ]
-  }
-]
+    {
+      "category": "Trending",
+      "urls": [
+        {
+          "name": "beat radiance",
+          "url": "Trending/beat radiance.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "bouncy pop ringtone",
+          "url": "Trending/bouncy pop ringtone.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "chic pop",
+          "url": "Trending/chic pop.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "energetic sound ringtone",
+          "url": "Trending/energetic sound ringtone.mp3",
+          "duration": "30s"
+        }
+      ]
+    },
+    {
+      "category": "POP",
+      "urls": [
+        {
+          "name": "feel good pop",
+          "url": "POP/feel good pop.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "jolly ring",
+          "url": "POP/jolly ring.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "pop pulse",
+          "url": "POP/pop pulse.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "pulse beat",
+          "url": "POP/pulse beat.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "ringtone rush",
+          "url": "POP/ringtone rush.mp3",
+          "duration": "30s"
+        },
+        {
+          "name": "upbeat pop anthem",
+          "url": "POP/upbeat pop anthem.mp3",
+          "duration": "30s"
+        }
+      ]
+    },
+    {
+      "category": "ROCK",
+      "urls": [
+        {
+          "name": "vivid pop tone",
+          "url": "ROCK/vivid pop tone.mp3",
+          "duration": "30s"
+        },
+        {
+            "name": "vivid pop tonem",
+            "url": "ROCK/vivid pop tonem.mp3",
+            "duration": "30s"
+          }
+      ]
+    }
+  ]
+  
